@@ -1,6 +1,6 @@
 # Sobre Mim
 </br>
-<img src="https://github.com/ldmachad/ldmachad/blob/main/Assets/HelloWorld.gif" alt="Gif Hello World" align="right"/>
+<img src="https://github.com/ldmachad/ldmachad/blob/main/Assets/HelloWorld.gif" alt="Gif Hello World" align="right" width="500"/>
 
 - 💻 Desenvolvedor Full Stack Jr .NET
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas.
