@@ -10,7 +10,7 @@
 <br>
 
 ## Competências
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,js,react,git,docker,postman)
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,js,react,git,postman,docker) <img height="44" hspace="4" width="44" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927"/>
 
 <br>
 
